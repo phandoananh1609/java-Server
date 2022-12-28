@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/jackson-annotations-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/jackson-core-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/jackson-databind-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/netty-buffer-4.1.44.Final.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/netty-codec-4.1.44.Final.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/netty-codec-http-4.1.44.Final.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/netty-common-4.1.44.Final.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/netty-handler-4.1.44.Final.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/netty-resolver-4.1.44.Final.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/netty-socketio-1.7.18.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/netty-transport-4.1.44.Final.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/netty-transport-native-epoll-4.1.44.Final.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/netty-transport-native-unix-common-4.1.44.Final.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/engine.io-client-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/json-20090211.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/okhttp-3.12.12.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/okio-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/socket.io-client-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.31.jar"/>
+	<classpathentry kind="lib" path="D:/DEV/JAVA/server/bin/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
